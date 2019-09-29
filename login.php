@@ -89,7 +89,7 @@ if (isset($_POST['login'])){
 
 	    <input type="submit" value="Login" name="login" class="login-button">
 
-	  	<p class="login-lost">New Here? <a href="registration.php">Register</a></p>
+	  	<p class="login-lost">New Here? <a href="register.php">Register</a></p>
 
   	</form>
 
